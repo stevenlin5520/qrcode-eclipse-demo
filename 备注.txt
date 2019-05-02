@@ -1,0 +1,2 @@
+1、设置扫描区域宽高
+	com.steven.qrcode.CameraManager的MAX_FRAME_WIDTH设置扫描区域长度，MAX_FRAME_HEIGHT设置扫码区域宽度
